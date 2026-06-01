@@ -166,3 +166,5 @@ cython_debug/
 *.par
 *.parquet
 *.pickle
+
+.venv_mle_recsys_start
