@@ -168,3 +168,4 @@ cython_debug/
 *.pickle
 
 .venv_mle_recsys_start
+catboost_info
